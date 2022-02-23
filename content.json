@@ -1,3 +1,8 @@
 {
-  "custom-field": "name"
+  "custom-field": "name",
+  "custom-list": [
+    {
+      "custom-list-item": "test"
+    }
+  ]
 }
